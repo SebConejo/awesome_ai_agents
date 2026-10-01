@@ -1560,6 +1560,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Llmtestforaccessibilitycheck_Chatgpt](https://github.com/AutoBugHunter/LLMTestForAccessibilityCheck_chatgpt) - Checking multiple LLM tools to generate code for a webpage and then prompting the tools to fix the accessibility issues in the webpage
 - [Localagent](https://github.com/PrAsAnNaRePo/LocalAgent) - opengpt is a open implementation of GPT agents.
 - [Macllm](https://github.com/appenz/macLLM) - Tool to integrate LLM's like GPT-3 with macOS
+- [Manifest API Bot](https://manifest.build/api-bot/) - GitHub App that watches the third-party APIs your code calls and opens a pull request with an LLM-written fix when one of them changes.
 - [Markdown_Llm](https://github.com/matweldon/markdown_llm) - A tool for interacting with an LLM in a markdown document
 - [Mastermind](https://github.com/theoforger/mastermind) - An LLM-powered CLI tool to help you be a better spymaster in Codenames
 - [Metorial](https://github.com/metorial/metorial) - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
